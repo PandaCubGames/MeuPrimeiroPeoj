@@ -6,6 +6,7 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello brave new world");
             Console.WriteLine("Hello World!");
         }
     }
