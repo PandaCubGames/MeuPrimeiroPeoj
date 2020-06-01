@@ -1,0 +1,13 @@
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.exe
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.deps.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.runtimeconfig.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.runtimeconfig.dev.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\bin\Debug\netcoreapp3.1\cript.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.csprojAssemblyReference.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.csproj.CoreCompileInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.AssemblyInfoInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.AssemblyInfo.cs
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\cript\obj\Debug\netcoreapp3.1\cript.genruntimeconfig.cache

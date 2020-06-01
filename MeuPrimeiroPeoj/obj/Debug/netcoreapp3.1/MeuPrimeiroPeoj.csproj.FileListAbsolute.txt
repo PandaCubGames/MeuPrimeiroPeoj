@@ -1,0 +1,13 @@
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.exe
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.deps.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.runtimeconfig.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.runtimeconfig.dev.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\bin\Debug\netcoreapp3.1\MeuPrimeiroPeoj.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.csprojAssemblyReference.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.csproj.CoreCompileInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.AssemblyInfoInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.AssemblyInfo.cs
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\MeuPrimeiroPeoj\obj\Debug\netcoreapp3.1\MeuPrimeiroPeoj.genruntimeconfig.cache

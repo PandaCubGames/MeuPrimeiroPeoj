@@ -1,0 +1,13 @@
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache

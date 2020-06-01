@@ -1,0 +1,13 @@
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+E:\Usando\Acelerandio\MeuPrimeiroPeoj\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
